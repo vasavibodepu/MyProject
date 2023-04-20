@@ -1,2 +1,2 @@
 # MyProject
-Creating my own organisation
+Creating test project 
